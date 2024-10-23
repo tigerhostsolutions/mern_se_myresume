@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  line-height: 1.5;
+  box-sizing: border-box;
+}
+
+body {
+  width: 90%;
+  margin: auto;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h3 {
+  /* border: 1px rgb(67, 69, 206) solid; */
+  width: 25%;
+  padding: 10px;
+}
+
+hr {
+  width: 25%;
+  margin: 8px 0;
+}
+
+
+
+.title {
+  font-weight: bold;
+}
+
+.contact, .nav-item {
+  padding: 5px;
+  list-style: none;
+  display: inline-block;
+  /* border: 1px solid black ; */
+}
+
+.credential, .institution {
+  list-style: none;
+
+}
